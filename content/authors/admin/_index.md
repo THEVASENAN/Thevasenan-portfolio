@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Full Stack Developer Cum Web developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
