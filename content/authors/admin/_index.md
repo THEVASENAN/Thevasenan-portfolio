@@ -46,6 +46,9 @@ profiles:
     label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an enthusiastic, hands-on IT professional with 8-year UAE Experience in demonstrated history of working
+Retail industries and Hospitality and Aluminium industries Skilled in Databases, IT Network Infrastructure,
+Linux Server administration, Virtualization, Backup, DRP, and Storage techniques. Microsoft Dynamics
+experience (GP, D365). Microsoft servers: SQL, DC, EXCHANGE, IIS, DNS...etc. Information technology
+professional with a Bachelor's degree in computer science and Engineering. Superior record of delivering
+simultaneous large-scale, mission critical projects on time and under budget.
