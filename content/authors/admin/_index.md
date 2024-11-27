@@ -22,7 +22,7 @@ role: Full Stack Developer Cum Web developer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Anna University
-    url: https://www.stanford.edu/
+    url: https://www.www.annauniv.edu
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
