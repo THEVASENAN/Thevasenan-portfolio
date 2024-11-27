@@ -1,4 +1,4 @@
-# Hugo Blox Builder: All Access
+# 
 
 Elevate your web projects with [All Access](https://hugoblox.com/sponsor/), our premium Tailwind blox collection!
 
