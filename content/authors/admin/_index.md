@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Full Stack Developer Cum Web developer
+role: Full Stack Developer Cum IT Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
